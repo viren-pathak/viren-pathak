@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Pathak</h1>
-<h4>WordPress Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
-<h4>SELECT COUNT(*) as learning_opportunities FROM failures</h4>
+<h4 align="center">WordPress Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
+<h4 align="center">SELECT COUNT(*) as learning_opportunities FROM failures</h4>
 - 🌱 I’m currently learning **Php & Laravel**
 
 - 💬 Ask me about **Wordpress,Php and UI/UX Designing**
