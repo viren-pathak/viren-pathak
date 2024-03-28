@@ -22,7 +22,7 @@
 <!-- LANGUAGES AND TOOLS -->
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
