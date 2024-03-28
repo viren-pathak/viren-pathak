@@ -13,9 +13,9 @@
 <!-- SOCIAL MEDIA CONNECTIONS -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-narendra-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-narendra-pathak" height="30" width="40" /></a>
-<a href="https://fb.com/deepak pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak pathak" height="30" width="40" /></a>
-<a href="https://instagram.com/viren_deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viren_deep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-narendra-pathak" target="blank" style="margin-right:30px;"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="deepak-narendra-pathak" height="40" width="40" /></a>
+<a href="https://instagram.com/viren_deep" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="viren_deep" height="40" width="40" /></a>
+<a href="https://discord.com/invite/ayuUVuAY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="deepak pathak" height="40" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
