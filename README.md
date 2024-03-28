@@ -6,12 +6,12 @@
 
 - 💬 Ask me about **Wordpress,Php and UI/UX Designing**
 
-- 📫 Reach me **@engr.deepak.pathak@gmail.com** or through social media handle
+- 📫 Reach me **@engr.deepak.pathak@gmail.com** or through social media handle listed below
 
 - ⚡ Fun fact **I am National level Basketball Player**
 
 <!-- SOCIAL MEDIA CONNECTIONS -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepak-narendra-pathak" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="deepak-narendra-pathak" height="40" width="40" /></a>
 <a href="mailto:engr.deepak.pathak@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="engr.deepak.pathak@gmail.com" height="40" width="40" /></a>
@@ -20,7 +20,7 @@
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> 
