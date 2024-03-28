@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Wordpress,Php and UI/UX Designing**
 
-- 📫 Reach me **@engr.deepak.pathak@gmail.com** or through social media handle listed below
+- 📫 Have a look at my <a href="https://viren-pathak.github.io/portfolio/" target="_blank"> **Portfolio Website** </a> 
 
 - ⚡ Fun fact **I am National level Basketball Player**
 
